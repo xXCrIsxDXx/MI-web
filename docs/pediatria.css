@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+header {
+  width: 100%;
+  height: 80px;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  transition: all 0.5s ease;
+  background-color: burlywood;
+  padding: 10px 10px 10px 10px;
+  margin: 0 0 25px;
+}
+header h1 {
+  font-size: 70px;
+  font-family: sans-serif;
+  color: burlywood;
+  background-color: bisque;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 80px;
+  border-radius: 15px;
+}
+body {
+  background-color: bisque;
+  padding-top: 120px;
+}
+header img {
+  float: left;
+  width: 100px;
+}
+.img img {
+  float: right;
+  width: 100px;
+}
+.todo {
+  background-color: tan;
+  margin: 0 0 25px;
+  padding: 20px 20px 20px 20px;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+section {
+  background-color: bisque;
+  margin: 0 0 25px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 15px;
+}
+h2 {
+  text-align: center;
+  font-family: fantasy;
+  color: burlywood;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  list-style-position: inside;
+  background-color: bisque;
+  padding: 20px 20px 20px 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
